@@ -1,0 +1,11 @@
+Welcome to Hellheim.
+
+It is a first person narrative action game where you are a proud and arrogant Viking who is on trial trapped in Hellheim
+where he encounters a series of tests and where he finds his ancestors trapped in search of reaching Valhalla.
+Will he manage to ascend or will he stay in that hell forever?
+
+Game designed in 48 hours by only 1 person. I couldn't finish the combat mechanics...but I hope you enjoy it.
+
+Thanks for playing, I really hope you like it.
+
+Life Counter Studios.
